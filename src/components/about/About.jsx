@@ -35,7 +35,7 @@ function About() {
             <article className="about__card">
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>50+ Clients</small>
+              <small>10+ Clients</small>
             </article>
           
 
@@ -48,7 +48,7 @@ function About() {
           </div>
 
           <p>
-              {/*  */}
+            I am a full-stack developer with a focus on python backed web frameworks. I have dabbled with machine learning and data science as well.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
