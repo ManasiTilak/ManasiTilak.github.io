@@ -11,7 +11,7 @@ const Header = () => {
       
           <h5>Hi, I'm</h5>
           
-            <h3 class="dynamic-txts"><span>Manasi</span></h3>
+            <h3 class="dynamic-txts"><span>mana</span></h3>
           
           <h5 className="text-light">I build things.</h5>
         
